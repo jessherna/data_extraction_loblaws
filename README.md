@@ -105,6 +105,8 @@ driver = get_driver(headless=True)
 ```
 loblaws/
 ├── get_data.ipynb              # Main notebook with extraction pipeline
+├── get_data.html               # HTML version of the notebook
+├── get_data.pdf                # PDF version of the notebook
 ├── loblaws_products.json        # Output: Extracted product data
 ├── diagrams/                    # Pipeline diagrams
 │   ├── concept.png              # High-level architecture overview
