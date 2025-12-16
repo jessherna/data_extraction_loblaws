@@ -88,9 +88,9 @@ Open `get_data.ipynb` in Jupyter Notebook and execute the cells in order:
 The notebook includes test cells for each extraction function:
 
 - **Test Main Categories** (Cell 6): Tests `extract_main_categories()`
-- **Test Subcategories** (Cell 10): Tests `extract_subcategories()`
-- **Test Subcategory2** (Cell 15): Tests `extract_subcategory2_from_dropdown()`
-- **Test Product Extraction** (Cell 19): Tests `extract_products_from_grid()`
+- **Test Subcategories** (Cell 8): Tests `extract_subcategories()`
+- **Test Subcategory2** (Cell 12): Tests `extract_subcategory2_from_dropdown()`
+- **Test Product Extraction** (Cell 13): Tests `extract_products_from_grid()`
 
 ### Running in Headless Mode
 
